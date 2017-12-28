@@ -1,3 +1,11 @@
+// History:
+//
+// 2017-12-28: Version 1.03
+//
+//		* CIQ 2.41 to support Edge 1030
+//      * 1030 support
+//
+
 using Toybox.Application as App;
 
 class DF_PowerPeaksApp extends App.AppBase
@@ -28,11 +36,10 @@ class DF_PowerPeaksApp extends App.AppBase
 		D3 = getProperty("Duration_3");
 		D4 = getProperty("Duration_4");
 		T  = getProperty("DF_Title");
-		V  = getProperty("App_Version");
 
 		//System.println(D1 + " / " + D2 + " / " + D3 + " / " +D4);
 		
-        return [ new DF_PowerPeaksView(D1,D2,D3,D4,T,V) ];
+        return [ new DF_PowerPeaksView(D1,D2,D3,D4,T) ];
     }
 
 }

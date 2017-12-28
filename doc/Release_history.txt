@@ -1,0 +1,18 @@
+With this Complex Data Field, you can display 4 average power peaks during your training: typically CP5s, CP60s, CP300s and CP1200s
+
+Power peaks durations are specified in seconds.
+
+Release History:
+
+- V1.03 - 2017-12-28
+* Garmin IQ - SDK 2.4.1
+* Edge 1030 support
+- V1.02 - 2016-03-23
+* Layouts updates
+* Title update
+- V1.01 - 2016-03-18
+* Layouts updates
+* Title update
+* Remove FR920XT support
+- V1.00 - 2016-03-17
+* Original version

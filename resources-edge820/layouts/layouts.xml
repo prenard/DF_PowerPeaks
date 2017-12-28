@@ -1,0 +1,10 @@
+<layouts>
+    <!-- A generic, centered layout. -->
+    <layout id="MainLayout">
+		<drawable class="Background" />
+        <label id="DF_Title" x="center" y="0" color="Gfx.COLOR_BLACK" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+        <label id="f1_label" x="1" y="30" color="Gfx.COLOR_BLACK" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+        <label id="f1_value" x="80" y="13" color="Gfx.COLOR_BLACK" justification="Gfx.TEXT_JUSTIFY_RIGHT" />
+        <label id="Power_Unit" x="95" y="30" color="Gfx.COLOR_BLACK" justification="Gfx.TEXT_JUSTIFY_RIGHT" />
+    </layout>
+</layouts>

@@ -30,7 +30,7 @@ class DF_PowerPeaksView extends Ui.DataField
 	var Label_Value = new [4];
 
 
-    function initialize(D1,D2,D3,D4,T,V)
+    function initialize(D1,D2,D3,D4,T)
     {
         DataField.initialize();
 
@@ -39,7 +39,6 @@ class DF_PowerPeaksView extends Ui.DataField
 		//System.println("Device Type = " + Device_Type);
 
 		App_Title = T;
-		App_Version = V;
 
 		CPx_Duration_Array = [D1,D2,D3,D4];        
 
@@ -81,15 +80,19 @@ class DF_PowerPeaksView extends Ui.DataField
     //! the draw context is changed this will be called.
     function onLayout(dc)
     {
+	   System.println("DC Height  = " + dc.getHeight());
+       System.println("DC Width  = " + dc.getWidth());
+
        View.setLayout(Rez.Layouts.MainLayout(dc));
 
        var DF_Title = View.findDrawableById("DF_Title");
        var f1_label = View.findDrawableById("f1_label");
        var f1_value = View.findDrawableById("f1_value");
        var Power_Unit = View.findDrawableById("Power_Unit");
-              
+ /*             
        if (Device_Type.equals("edge_520") or Device_Type.equals("edge_1000"))
        {
+ */
          CustomFont_Label = Ui.loadResource(Rez.Fonts.Font_Label);
          CustomFont_Value = Ui.loadResource(Rez.Fonts.Font_Value);
          CustomFont_Title = Ui.loadResource(Rez.Fonts.Font_Title);
@@ -99,8 +102,9 @@ class DF_PowerPeaksView extends Ui.DataField
    	     f1_label.setFont(CustomFont_Label);
    	     f1_value.setFont(CustomFont_Value);
    	     Power_Unit.setFont(CustomFont_Power_Unit);
+/*
        }
-
+*/
    	   DF_Title.setText(App_Title);
    	   Power_Unit.setText(Ui.loadResource(Rez.Strings.Power_Unit));
   
