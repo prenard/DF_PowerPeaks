@@ -1,135 +1,131 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="14" pc="268435456" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="16" pc="268435460" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="20" pc="268435479" symbol="onStart"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="25" pc="268435484" symbol="onStop"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="30" pc="268435489" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="32" pc="268435493" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="34" pc="268435493" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="35" pc="268435511" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="36" pc="268435529" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="37" pc="268435547" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="38" pc="268435565" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="42" pc="268435583" symbol="getInitialView"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="9" pc="268435631" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="10" pc="268435635" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="14" pc="268435656" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="17" pc="268435677" symbol="setColor"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="18" pc="268435681" symbol="setColor"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="21" pc="268435692" symbol="draw"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="22" pc="268435696" symbol="draw"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="23" pc="268435728" symbol="draw"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="33" pc="268435741" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="35" pc="268435745" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="37" pc="268435763" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="41" pc="268435806" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="43" pc="268435816" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="45" pc="268435870" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="49" pc="268435883" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="51" pc="268435913" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="54" pc="268435933" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="55" pc="268435972" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="56" pc="268435994" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="57" pc="268436016" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="58" pc="268436038" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="60" pc="268436060" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="64" pc="268436088" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="65" pc="268436123" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="67" pc="268436162" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="70" pc="268436200" symbol="initialize"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="81" pc="268436236" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="83" pc="268436240" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="84" pc="268436275" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="86" pc="268436310" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="88" pc="268436353" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="89" pc="268436377" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="90" pc="268436401" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="91" pc="268436425" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="96" pc="268436449" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="97" pc="268436492" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="98" pc="268436535" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="99" pc="268436578" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="101" pc="268436621" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="102" pc="268436641" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="103" pc="268436661" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="104" pc="268436681" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="108" pc="268436701" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="109" pc="268436721" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="111" pc="268436768" symbol="onLayout"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="114" pc="268436772" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="116" pc="268436776" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="118" pc="268436776" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="119" pc="268436776" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="121" pc="268436776" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="122" pc="268436786" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="126" pc="268436799" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="128" pc="268436810" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="132" pc="268436837" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="136" pc="268436861" symbol="Field_Label"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="142" pc="268436865" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="144" pc="268436869" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="146" pc="268436882" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="149" pc="268436903" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="152" pc="268436903" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="154" pc="268436943" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="157" pc="268436974" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="162" pc="268437014" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="164" pc="268437049" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="168" pc="268437074" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="170" pc="268437099" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="172" pc="268437116" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="178" pc="268437132" symbol="compute"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="189" pc="268437198" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="192" pc="268437202" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="194" pc="268437245" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="195" pc="268437269" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="196" pc="268437293" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="197" pc="268437317" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="199" pc="268437341" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="200" pc="268437372" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="202" pc="268437401" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="206" pc="268437426" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="208" pc="268437460" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="210" pc="268437487" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="211" pc="268437511" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="212" pc="268437535" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="213" pc="268437559" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="217" pc="268437586" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="218" pc="268437610" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="219" pc="268437634" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="220" pc="268437658" symbol="onUpdate"/>
-<entry filename="W:\\save-w\\softs-conf\\Garmin\\Connect-IQ\\workplace\\my-workplace-Neon\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="224" pc="268437682" symbol="onUpdate"/>
-<entry filename="Rez" lineNum="29" pc="268437703" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="33" pc="268437715" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="34" pc="268437739" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="35" pc="268437887" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="36" pc="268437912" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="37" pc="268437964" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="38" pc="268438097" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="39" pc="268438230" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="42" pc="268438363" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="51" pc="268438421" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="55" pc="268438433" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="56" pc="268438457" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="57" pc="268438590" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="60" pc="268438723" symbol="TopLeftLayout"/>
-<entry filename="Rez" lineNum="69" pc="268438761" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="73" pc="268438773" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="74" pc="268438797" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="75" pc="268438930" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="78" pc="268439063" symbol="TopRightLayout"/>
-<entry filename="Rez" lineNum="87" pc="268439101" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="91" pc="268439113" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="92" pc="268439137" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="93" pc="268439270" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="96" pc="268439403" symbol="BottomLeftLayout"/>
-<entry filename="Rez" lineNum="105" pc="268439441" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="109" pc="268439453" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="110" pc="268439477" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="111" pc="268439610" symbol="BottomRightLayout"/>
-<entry filename="Rez" lineNum="114" pc="268439743" symbol="BottomRightLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="9" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="10" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="14" pc="268435481" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="17" pc="268435502" symbol="setColor"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="18" pc="268435506" symbol="setColor"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="21" pc="268435517" symbol="draw"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="22" pc="268435521" symbol="draw"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksBackground.mc" lineNum="23" pc="268435553" symbol="draw"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="33" pc="268435566" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="35" pc="268435570" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="37" pc="268435588" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="41" pc="268435631" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="43" pc="268435641" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="45" pc="268435695" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="49" pc="268435708" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="51" pc="268435738" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="54" pc="268435758" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="55" pc="268435797" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="56" pc="268435819" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="57" pc="268435841" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="58" pc="268435863" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="60" pc="268435885" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="64" pc="268435913" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="65" pc="268435948" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="67" pc="268435987" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="70" pc="268436025" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="81" pc="268436061" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="86" pc="268436065" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="88" pc="268436108" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="89" pc="268436132" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="90" pc="268436156" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="91" pc="268436180" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="96" pc="268436204" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="97" pc="268436247" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="98" pc="268436290" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="99" pc="268436333" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="101" pc="268436376" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="102" pc="268436396" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="103" pc="268436416" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="104" pc="268436436" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="108" pc="268436456" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="109" pc="268436476" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="111" pc="268436523" symbol="onLayout"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="114" pc="268436527" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="116" pc="268436531" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="118" pc="268436531" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="119" pc="268436531" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="121" pc="268436531" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="122" pc="268436541" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="126" pc="268436554" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="128" pc="268436565" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="132" pc="268436592" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="136" pc="268436616" symbol="Field_Label"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="142" pc="268436620" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="144" pc="268436624" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="146" pc="268436637" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="149" pc="268436658" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="152" pc="268436658" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="154" pc="268436698" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="157" pc="268436729" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="162" pc="268436769" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="164" pc="268436804" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="168" pc="268436829" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="170" pc="268436854" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="172" pc="268436871" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="178" pc="268436887" symbol="compute"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="189" pc="268436953" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="192" pc="268436957" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="194" pc="268437000" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="195" pc="268437024" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="196" pc="268437048" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="197" pc="268437072" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="199" pc="268437096" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="200" pc="268437127" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="202" pc="268437156" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="206" pc="268437181" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="208" pc="268437215" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="210" pc="268437242" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="211" pc="268437266" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="212" pc="268437290" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="213" pc="268437314" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="217" pc="268437341" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="218" pc="268437365" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="219" pc="268437389" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="220" pc="268437413" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksView.mc" lineNum="224" pc="268437437" symbol="onUpdate"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="14" pc="268437458" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="16" pc="268437462" symbol="initialize"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="20" pc="268437481" symbol="onStart"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="25" pc="268437486" symbol="onStop"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="30" pc="268437491" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="32" pc="268437495" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="34" pc="268437495" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="35" pc="268437513" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="36" pc="268437531" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="37" pc="268437549" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="38" pc="268437567" symbol="getInitialView"/>
+<entry filename="D:\\save-w\\softs-conf\\Garmin-CIQ\\workplace\\my-workplace\\Df_PowerPeaks\\.\\source\\DF_PowerPeaksApp.mc" lineNum="42" pc="268437585" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="29" pc="268437633" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="33" pc="268437645" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="34" pc="268437669" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="35" pc="268437802" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268437935" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268438068" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268438201" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="49" pc="268438259" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="53" pc="268438271" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="54" pc="268438295" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="55" pc="268438428" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="58" pc="268438561" symbol="TopLeftLayout"/>
+<entry filename="Rez" lineNum="67" pc="268438599" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="71" pc="268438611" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="72" pc="268438635" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="73" pc="268438768" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="76" pc="268438901" symbol="TopRightLayout"/>
+<entry filename="Rez" lineNum="85" pc="268438939" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="89" pc="268438951" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="90" pc="268438975" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="91" pc="268439108" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="94" pc="268439241" symbol="BottomLeftLayout"/>
+<entry filename="Rez" lineNum="103" pc="268439279" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="107" pc="268439291" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="108" pc="268439315" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="109" pc="268439448" symbol="BottomRightLayout"/>
+<entry filename="Rez" lineNum="112" pc="268439581" symbol="BottomRightLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
@@ -157,11 +153,11 @@
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="36" symbol="CPx_Duration_Array"/>
 <entry field="true" id="29" symbol="AppName"/>
-<entry id="10" object="true" symbol="DF_PowerPeaksView"/>
+<entry id="9" object="true" symbol="DF_PowerPeaksView"/>
 <entry field="true" id="26" symbol="Duration_1_Title"/>
 <entry field="true" id="31" symbol="CustomFont_Label"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry id="9" object="true" symbol="DF_PowerPeaksApp"/>
+<entry id="10" object="true" symbol="DF_PowerPeaksApp"/>
 <entry field="true" id="13" symbol="LauncherIcon"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389065" symbol="locY"/>
@@ -199,81 +195,66 @@
 <entry field="true" id="28" symbol="Duration_4_Title"/>
 </symbolTable>
 <localVars>
-<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
-<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
-<entry endPc="268435630" name="V" stackId="6" startPc="268435493"/>
-<entry endPc="268435630" name="T" stackId="5" startPc="268435493"/>
-<entry endPc="268435630" name="D4" stackId="4" startPc="268435493"/>
-<entry endPc="268435630" name="D3" stackId="3" startPc="268435493"/>
-<entry endPc="268435630" name="D2" stackId="2" startPc="268435493"/>
-<entry endPc="268435630" name="D1" stackId="1" startPc="268435493"/>
-<entry endPc="268435676" name="dictionary" stackId="1" startPc="268435635"/>
-<entry endPc="268435692" name="color" stackId="1" startPc="268435677"/>
-<entry endPc="268435741" name="dc" stackId="1" startPc="268435692"/>
-<entry endPc="268436200" name="j" stackId="7" startPc="268436162"/>
-<entry endPc="268436235" name="i" stackId="6" startPc="268435913"/>
-<entry endPc="268436236" name="T" stackId="5" startPc="268435741"/>
-<entry endPc="268436236" name="D4" stackId="4" startPc="268435741"/>
-<entry endPc="268436236" name="D3" stackId="3" startPc="268435741"/>
-<entry endPc="268436236" name="D2" stackId="2" startPc="268435741"/>
-<entry endPc="268436236" name="D1" stackId="1" startPc="268435741"/>
-<entry endPc="268436771" name="f1_value" stackId="4" startPc="268436240"/>
-<entry endPc="268436771" name="DF_Title" stackId="2" startPc="268436240"/>
-<entry endPc="268436771" name="Power_Unit" stackId="5" startPc="268436240"/>
-<entry endPc="268436771" name="f1_label" stackId="3" startPc="268436240"/>
-<entry endPc="268436772" name="dc" stackId="1" startPc="268436236"/>
-<entry endPc="268436864" name="Field_Label" stackId="2" startPc="268436776"/>
-<entry endPc="268436864" name="Second" stackId="3" startPc="268436776"/>
-<entry endPc="268436864" name="Minute" stackId="4" startPc="268436776"/>
-<entry endPc="268436865" name="Duration_Sec" stackId="1" startPc="268436772"/>
-<entry endPc="268437181" name="Current_AVGx_Power_value" stackId="3" startPc="268436903"/>
-<entry endPc="268437194" name="i" stackId="2" startPc="268436903"/>
-<entry endPc="268437198" name="info" stackId="1" startPc="268436865"/>
-<entry endPc="268437702" name="f1_value" stackId="4" startPc="268437202"/>
-<entry endPc="268437702" name="DF_Title" stackId="3" startPc="268437202"/>
-<entry endPc="268437702" name="Power_Unit" stackId="5" startPc="268437202"/>
-<entry endPc="268437702" name="f1_label" stackId="2" startPc="268437202"/>
-<entry endPc="268437703" name="dc" stackId="1" startPc="268437198"/>
-<entry endPc="268438420" name="rez_cmp_local_bitmap_f1_value" stackId="6" startPc="268437715"/>
-<entry endPc="268438420" name="rez_cmp_local_custom_drawable_FY01SAZU0O3YOULUOBXD" stackId="2" startPc="268437715"/>
-<entry endPc="268438420" name="rez_cmp_local_bitmap_Power_Unit" stackId="7" startPc="268437715"/>
-<entry endPc="268438420" name="rez_cmp_local_bitmap_DF_Title" stackId="3" startPc="268437715"/>
-<entry endPc="268438420" name="rez_cmp_local_bitmap_f1_label" stackId="5" startPc="268437715"/>
-<entry endPc="268438420" name="rez_cmp_local_bitmap_DF_Title_fontHeight" stackId="4" startPc="268437715"/>
-<entry endPc="268438421" name="dc" stackId="1" startPc="268437703"/>
-<entry endPc="268438760" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438433"/>
-<entry endPc="268438760" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438433"/>
-<entry endPc="268438760" name="rez_cmp_local_custom_drawable_R8H14VVHJW1ABYBDYJA0" stackId="2" startPc="268438433"/>
-<entry endPc="268438761" name="dc" stackId="1" startPc="268438421"/>
-<entry endPc="268439100" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438773"/>
-<entry endPc="268439100" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438773"/>
-<entry endPc="268439100" name="rez_cmp_local_custom_drawable_NYOLMFO0CM3P0F6A3RSB" stackId="2" startPc="268438773"/>
-<entry endPc="268439101" name="dc" stackId="1" startPc="268438761"/>
-<entry endPc="268439440" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439113"/>
-<entry endPc="268439440" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439113"/>
-<entry endPc="268439440" name="rez_cmp_local_custom_drawable_7V5CEBA5K4DMV7EOPX4Z" stackId="2" startPc="268439113"/>
-<entry endPc="268439441" name="dc" stackId="1" startPc="268439101"/>
-<entry endPc="268439780" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439453"/>
-<entry endPc="268439780" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439453"/>
-<entry endPc="268439780" name="rez_cmp_local_custom_drawable_QYZT2B9LOATUPRX7P2FO" stackId="2" startPc="268439453"/>
-<entry endPc="268439781" name="dc" stackId="1" startPc="268439441"/>
+<entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
+<entry endPc="268435517" name="color" stackId="1" startPc="268435502"/>
+<entry endPc="268435566" name="dc" stackId="1" startPc="268435517"/>
+<entry endPc="268436025" name="j" stackId="7" startPc="268435987"/>
+<entry endPc="268436060" name="i" stackId="6" startPc="268435738"/>
+<entry endPc="268436061" name="T" stackId="5" startPc="268435566"/>
+<entry endPc="268436061" name="D4" stackId="4" startPc="268435566"/>
+<entry endPc="268436061" name="D3" stackId="3" startPc="268435566"/>
+<entry endPc="268436061" name="D2" stackId="2" startPc="268435566"/>
+<entry endPc="268436061" name="D1" stackId="1" startPc="268435566"/>
+<entry endPc="268436526" name="f1_value" stackId="4" startPc="268436065"/>
+<entry endPc="268436526" name="DF_Title" stackId="2" startPc="268436065"/>
+<entry endPc="268436526" name="Power_Unit" stackId="5" startPc="268436065"/>
+<entry endPc="268436526" name="f1_label" stackId="3" startPc="268436065"/>
+<entry endPc="268436527" name="dc" stackId="1" startPc="268436061"/>
+<entry endPc="268436619" name="Field_Label" stackId="2" startPc="268436531"/>
+<entry endPc="268436619" name="Second" stackId="3" startPc="268436531"/>
+<entry endPc="268436619" name="Minute" stackId="4" startPc="268436531"/>
+<entry endPc="268436620" name="Duration_Sec" stackId="1" startPc="268436527"/>
+<entry endPc="268436936" name="Current_AVGx_Power_value" stackId="3" startPc="268436658"/>
+<entry endPc="268436949" name="i" stackId="2" startPc="268436658"/>
+<entry endPc="268436953" name="info" stackId="1" startPc="268436620"/>
+<entry endPc="268437457" name="f1_value" stackId="4" startPc="268436957"/>
+<entry endPc="268437457" name="DF_Title" stackId="3" startPc="268436957"/>
+<entry endPc="268437457" name="Power_Unit" stackId="5" startPc="268436957"/>
+<entry endPc="268437457" name="f1_label" stackId="2" startPc="268436957"/>
+<entry endPc="268437458" name="dc" stackId="1" startPc="268436953"/>
+<entry endPc="268437486" name="state" stackId="1" startPc="268437481"/>
+<entry endPc="268437491" name="state" stackId="1" startPc="268437486"/>
+<entry endPc="268437632" name="V" stackId="6" startPc="268437495"/>
+<entry endPc="268437632" name="T" stackId="5" startPc="268437495"/>
+<entry endPc="268437632" name="D4" stackId="4" startPc="268437495"/>
+<entry endPc="268437632" name="D3" stackId="3" startPc="268437495"/>
+<entry endPc="268437632" name="D2" stackId="2" startPc="268437495"/>
+<entry endPc="268437632" name="D1" stackId="1" startPc="268437495"/>
+<entry endPc="268438258" name="rez_cmp_local_bitmap_f1_value" stackId="5" startPc="268437645"/>
+<entry endPc="268438258" name="rez_cmp_local_bitmap_Power_Unit" stackId="6" startPc="268437645"/>
+<entry endPc="268438258" name="rez_cmp_local_bitmap_DF_Title" stackId="3" startPc="268437645"/>
+<entry endPc="268438258" name="rez_cmp_local_custom_drawable_MVVPOXWVFVZU8X8RZ0WZ" stackId="2" startPc="268437645"/>
+<entry endPc="268438258" name="rez_cmp_local_bitmap_f1_label" stackId="4" startPc="268437645"/>
+<entry endPc="268438259" name="dc" stackId="1" startPc="268437633"/>
+<entry endPc="268438598" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438271"/>
+<entry endPc="268438598" name="rez_cmp_local_custom_drawable_BYV54GNR7YTS43M6JJRN" stackId="2" startPc="268438271"/>
+<entry endPc="268438598" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438271"/>
+<entry endPc="268438599" name="dc" stackId="1" startPc="268438259"/>
+<entry endPc="268438938" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438611"/>
+<entry endPc="268438938" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438611"/>
+<entry endPc="268438938" name="rez_cmp_local_custom_drawable_G7W8GAA0IE4X3GIEE1B7" stackId="2" startPc="268438611"/>
+<entry endPc="268438939" name="dc" stackId="1" startPc="268438599"/>
+<entry endPc="268439278" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268438951"/>
+<entry endPc="268439278" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268438951"/>
+<entry endPc="268439278" name="rez_cmp_local_custom_drawable_QE1CCLG0QKZHYSYPTDUD" stackId="2" startPc="268438951"/>
+<entry endPc="268439279" name="dc" stackId="1" startPc="268438939"/>
+<entry endPc="268439618" name="rez_cmp_local_bitmap_label" stackId="3" startPc="268439291"/>
+<entry endPc="268439618" name="rez_cmp_local_custom_drawable_K0YX1HANQ7VV9R8D3LW6" stackId="2" startPc="268439291"/>
+<entry endPc="268439618" name="rez_cmp_local_bitmap_value" stackId="4" startPc="268439291"/>
+<entry endPc="268439619" name="dc" stackId="1" startPc="268439279"/>
 </localVars>
 <annotations/>
 <functions>
-<functionEntry accessMode="public" name="initialize" parent="DF_PowerPeaksApp">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStart" parent="DF_PowerPeaksApp">
-<param id="state"/>
-<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onStop" parent="DF_PowerPeaksApp">
-<param id="state"/>
-<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="getInitialView" parent="DF_PowerPeaksApp">
-<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
-</functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="Background">
 <documentation/>
 </functionEntry>
@@ -308,6 +289,20 @@
 <functionEntry accessMode="public" name="onUpdate" parent="DF_PowerPeaksView">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Display the value you computed here. This will be called<br/> once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DF_PowerPeaksApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="DF_PowerPeaksApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="DF_PowerPeaksApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="DF_PowerPeaksApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
 </functionEntry>
 <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
 <param id="dc"/>

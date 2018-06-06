@@ -4,6 +4,9 @@ Power peaks durations are specified in seconds.
 
 Release History:
 
+- V1.04 - 2018-06-06
+* Add Edge 130 support
+* Add Edge 820 Plus support
 - V1.03 - 2017-12-28
 * Garmin IQ - SDK 2.4.1
 * Edge 1030 support
