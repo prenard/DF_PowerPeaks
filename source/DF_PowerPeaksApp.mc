@@ -7,13 +7,28 @@
 //
 
 using Toybox.Application as App;
+using Toybox.WatchUi as Ui;
 
 class DF_PowerPeaksApp extends App.AppBase
 {
 
+	var Device_Type;
+
     function initialize()
     {
         AppBase.initialize();
+
+		var DeviceSettings = System.getDeviceSettings();
+
+   		System.println("Application Start - Total Memory = " + System.getSystemStats().totalMemory + " / Used Memory = " + System.getSystemStats().usedMemory);
+
+        Device_Type = Ui.loadResource(Rez.Strings.Device);
+
+        System.println("Device Type = " + Device_Type);
+        System.println("Device - Screen Height = " + DeviceSettings.screenHeight);
+        System.println("Device - Screen Width = " + DeviceSettings.screenWidth);
+        System.println("Device - Is Touchscreen = " + DeviceSettings.isTouchScreen);
+
     }
 
     //! onStart() is called on application start up

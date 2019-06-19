@@ -4,6 +4,11 @@ Power peaks durations are specified in seconds.
 
 Release History:
 
+- V1.06 - 2019-06-19
+* Add Edge 530 support
+* Add Edge 1030 Bonrager support
+- V1.05 - 2019-05-21
+* Add Edge 830 support
 - V1.04 - 2018-06-06
 * Add Edge 130 support
 * Add Edge 820 Plus support

@@ -80,8 +80,8 @@ class DF_PowerPeaksView extends Ui.DataField
     //! the draw context is changed this will be called.
     function onLayout(dc)
     {
-	   //System.println("DC Height  = " + dc.getHeight());
-       //System.println("DC Width  = " + dc.getWidth());
+	   System.println("DC Height  = " + dc.getHeight());
+       System.println("DC Width  = " + dc.getWidth());
 
        View.setLayout(Rez.Layouts.MainLayout(dc));
 
