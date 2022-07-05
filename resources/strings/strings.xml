@@ -1,4 +1,6 @@
 <strings>
     <string id="AppName">DF_PowerPeaks</string>
     <string id="Power_Unit">W</string>
+    <string id="App_Version_Title">Application Version</string>
+    <string id="AppVersion">1.07-1</string>
 </strings>

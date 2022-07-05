@@ -1,0 +1,6 @@
+<fonts>
+	<font id="Font_Label" filename="Arial-Narrow-Bold_020.fnt" filter="0123456789sm:W"/>
+	<font id="Font_Value" filename="Arial-Narrow-Bold_050.fnt" filter="0123456789"/>
+	<font id="Font_Title" filename="Arial-Narrow-Bold_020.fnt" filter="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz -."/>
+	<font id="Font_Power_Unit" filename="Arial-Narrow-Bold_016.fnt" filter="W"/>
+</fonts>

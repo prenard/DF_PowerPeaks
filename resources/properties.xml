@@ -1,6 +1,7 @@
 <resources>
 	<properties>
-    	<property id="DF_Title" type="string">Power Peaks</property>
+		<property id="DF_Title" type="string">Power Peaks</property>
+	    <property id="App_Version" type="string">0.00-0</property>
 	    <property id="Duration_1" type="number">5</property>
 	    <property id="Duration_2" type="number">60</property>
 	    <property id="Duration_3" type="number">300</property>
@@ -8,7 +9,7 @@
 	</properties>
 
 	<strings>
-    	<string id="DF_Title_Title">Data Field Title</string>
+		<string id="DF_Title_Title">Data Field Title</string>
 	    <string id="Duration_1_Title">Power Peak Duration 1</string>
 	    <string id="Duration_2_Title">Power Peak Duration 2</string>
 		<string id="Duration_3_Title">Power Peak Duration 3</string>
@@ -16,10 +17,10 @@
 	</strings>
 	
 	<settings>
-	    <setting propertyKey="@Properties.DF_Title" title="@Strings.DF_Title_Title">
-	        <settingConfig type="alphaNumeric" readonly="true" />
-	    </setting>
-		    <setting propertyKey="@Properties.Duration_1" title="@Strings.Duration_1_Title">
+	    <setting propertyKey="@Properties.App_Version" title="@Strings.App_Version_Title">
+    	    <settingConfig type="alphaNumeric" readonly="true" />
+    	</setting>
+	    <setting propertyKey="@Properties.Duration_1" title="@Strings.Duration_1_Title">
 	        <settingConfig type="numeric" min="1" max="3600" />
 	    </setting>
 	    <setting propertyKey="@Properties.Duration_2" title="@Strings.Duration_2_Title">

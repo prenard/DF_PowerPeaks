@@ -81,17 +81,17 @@
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="5" lineNum="219" parent="globals/DF_PowerPeaksView" pc="268437306" symbol="onUpdate"/>
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="5" lineNum="220" parent="globals/DF_PowerPeaksView" pc="268437330" symbol="onUpdate"/>
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="5" lineNum="224" parent="globals/DF_PowerPeaksView" pc="268437354" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="4" parent="globals/DF_PowerPeaksView" pc="268439982" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="14" parent="globals/DF_PowerPeaksView" pc="268440000" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="15" parent="globals/DF_PowerPeaksView" pc="268440014" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="18" parent="globals/DF_PowerPeaksView" pc="268440028" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="19" parent="globals/DF_PowerPeaksView" pc="268440042" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="21" parent="globals/DF_PowerPeaksView" pc="268440056" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="22" parent="globals/DF_PowerPeaksView" pc="268440070" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="23" parent="globals/DF_PowerPeaksView" pc="268440084" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="24" parent="globals/DF_PowerPeaksView" pc="268440098" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="30" parent="globals/DF_PowerPeaksView" pc="268440112" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="4" parent="globals/DF_PowerPeaksView" pc="268439982" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="4" parent="globals/DF_PowerPeaksView" pc="268439688" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="14" parent="globals/DF_PowerPeaksView" pc="268439706" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="15" parent="globals/DF_PowerPeaksView" pc="268439720" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="18" parent="globals/DF_PowerPeaksView" pc="268439734" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="19" parent="globals/DF_PowerPeaksView" pc="268439748" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="21" parent="globals/DF_PowerPeaksView" pc="268439762" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="22" parent="globals/DF_PowerPeaksView" pc="268439776" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="23" parent="globals/DF_PowerPeaksView" pc="268439790" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="24" parent="globals/DF_PowerPeaksView" pc="268439804" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="30" parent="globals/DF_PowerPeaksView" pc="268439818" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksView.mc" id="6" lineNum="4" parent="globals/DF_PowerPeaksView" pc="268439688" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="8" lineNum="17" parent="globals/DF_PowerPeaksApp" pc="268437375" symbol="initialize"/>
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="8" lineNum="19" parent="globals/DF_PowerPeaksApp" pc="268437379" symbol="initialize"/>
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="8" lineNum="21" parent="globals/DF_PowerPeaksApp" pc="268437397" symbol="initialize"/>
@@ -102,96 +102,91 @@
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="9" lineNum="35" parent="globals/DF_PowerPeaksApp" pc="268437590" symbol="onStart"/>
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="10" lineNum="40" parent="globals/DF_PowerPeaksApp" pc="268437595" symbol="onStop"/>
         <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="45" parent="globals/DF_PowerPeaksApp" pc="268437600" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="48" parent="globals/DF_PowerPeaksApp" pc="268437604" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="49" parent="globals/DF_PowerPeaksApp" pc="268437641" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="50" parent="globals/DF_PowerPeaksApp" pc="268437667" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="52" parent="globals/DF_PowerPeaksApp" pc="268437686" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="54" parent="globals/DF_PowerPeaksApp" pc="268437686" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="55" parent="globals/DF_PowerPeaksApp" pc="268437704" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="56" parent="globals/DF_PowerPeaksApp" pc="268437722" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="57" parent="globals/DF_PowerPeaksApp" pc="268437740" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="58" parent="globals/DF_PowerPeaksApp" pc="268437758" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="62" parent="globals/DF_PowerPeaksApp" pc="268437776" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="12" lineNum="12" parent="globals/DF_PowerPeaksApp" pc="268440127" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="12" lineNum="12" parent="globals/DF_PowerPeaksApp" pc="268440127" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="14" lineNum="9" parent="globals/Background" pc="268437824" symbol="initialize"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="14" lineNum="10" parent="globals/Background" pc="268437828" symbol="initialize"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="14" lineNum="14" parent="globals/Background" pc="268437849" symbol="initialize"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="15" lineNum="17" parent="globals/Background" pc="268437870" symbol="setColor"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="15" lineNum="18" parent="globals/Background" pc="268437874" symbol="setColor"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="16" lineNum="21" parent="globals/Background" pc="268437885" symbol="draw"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="16" lineNum="22" parent="globals/Background" pc="268437889" symbol="draw"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="16" lineNum="23" parent="globals/Background" pc="268437921" symbol="draw"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="17" lineNum="5" parent="globals/Background" pc="268439933" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="17" lineNum="5" parent="globals/Background" pc="268439933" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="19" lineNum="2" parent="globals/Rez/Drawables" pc="268439976" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="20" lineNum="6" parent="globals/Rez/Fonts" pc="268439978" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="21" lineNum="13" parent="globals/Rez/JsonData" pc="268439980" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="22" lineNum="22" parent="globals/Rez/Layouts" pc="268437934" symbol="MainLayout"/>
-        <entry filename="Rez" id="22" lineNum="25" parent="globals/Rez/Layouts" pc="268437946" symbol="MainLayout"/>
-        <entry filename="Rez" id="22" lineNum="26" parent="globals/Rez/Layouts" pc="268437970" symbol="MainLayout"/>
-        <entry filename="Rez" id="22" lineNum="27" parent="globals/Rez/Layouts" pc="268438115" symbol="MainLayout"/>
-        <entry filename="Rez" id="22" lineNum="28" parent="globals/Rez/Layouts" pc="268438248" symbol="MainLayout"/>
-        <entry filename="Rez" id="22" lineNum="29" parent="globals/Rez/Layouts" pc="268438381" symbol="MainLayout"/>
-        <entry filename="Rez" id="22" lineNum="31" parent="globals/Rez/Layouts" pc="268438514" symbol="MainLayout"/>
-        <entry filename="Rez" id="23" lineNum="40" parent="globals/Rez/Layouts" pc="268438572" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="23" lineNum="43" parent="globals/Rez/Layouts" pc="268438584" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="23" lineNum="44" parent="globals/Rez/Layouts" pc="268438608" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="23" lineNum="45" parent="globals/Rez/Layouts" pc="268438741" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="23" lineNum="47" parent="globals/Rez/Layouts" pc="268438874" symbol="TopLeftLayout"/>
-        <entry filename="Rez" id="24" lineNum="56" parent="globals/Rez/Layouts" pc="268438912" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="24" lineNum="59" parent="globals/Rez/Layouts" pc="268438924" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="24" lineNum="60" parent="globals/Rez/Layouts" pc="268438948" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="24" lineNum="61" parent="globals/Rez/Layouts" pc="268439081" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="24" lineNum="63" parent="globals/Rez/Layouts" pc="268439214" symbol="TopRightLayout"/>
-        <entry filename="Rez" id="25" lineNum="72" parent="globals/Rez/Layouts" pc="268439252" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="25" lineNum="75" parent="globals/Rez/Layouts" pc="268439264" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="25" lineNum="76" parent="globals/Rez/Layouts" pc="268439288" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="25" lineNum="77" parent="globals/Rez/Layouts" pc="268439421" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="25" lineNum="79" parent="globals/Rez/Layouts" pc="268439554" symbol="BottomLeftLayout"/>
-        <entry filename="Rez" id="26" lineNum="88" parent="globals/Rez/Layouts" pc="268439592" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="26" lineNum="91" parent="globals/Rez/Layouts" pc="268439604" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="26" lineNum="92" parent="globals/Rez/Layouts" pc="268439628" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="26" lineNum="93" parent="globals/Rez/Layouts" pc="268439761" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="26" lineNum="95" parent="globals/Rez/Layouts" pc="268439894" symbol="BottomRightLayout"/>
-        <entry filename="Rez" id="27" lineNum="15" parent="globals/Rez/Layouts" pc="268439979" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="28" lineNum="100" parent="globals/Rez/Menus" pc="268439977" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="29" lineNum="102" parent="globals/Rez/Strings" pc="268439981" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="30" lineNum="1" parent="globals/Rez" pc="268439952" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="30" lineNum="1" parent="globals/Rez" pc="268439952" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="47" parent="globals/DF_PowerPeaksApp" pc="268437604" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="49" parent="globals/DF_PowerPeaksApp" pc="268437604" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="50" parent="globals/DF_PowerPeaksApp" pc="268437622" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="51" parent="globals/DF_PowerPeaksApp" pc="268437640" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="52" parent="globals/DF_PowerPeaksApp" pc="268437658" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="53" parent="globals/DF_PowerPeaksApp" pc="268437676" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="11" lineNum="57" parent="globals/DF_PowerPeaksApp" pc="268437694" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="12" lineNum="12" parent="globals/DF_PowerPeaksApp" pc="268439833" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksApp.mc" id="12" lineNum="12" parent="globals/DF_PowerPeaksApp" pc="268439833" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="14" lineNum="9" parent="globals/Background" pc="268437742" symbol="initialize"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="14" lineNum="10" parent="globals/Background" pc="268437746" symbol="initialize"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="14" lineNum="14" parent="globals/Background" pc="268437767" symbol="initialize"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="15" lineNum="17" parent="globals/Background" pc="268437788" symbol="setColor"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="15" lineNum="18" parent="globals/Background" pc="268437792" symbol="setColor"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="16" lineNum="21" parent="globals/Background" pc="268437803" symbol="draw"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="16" lineNum="22" parent="globals/Background" pc="268437807" symbol="draw"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="16" lineNum="23" parent="globals/Background" pc="268437839" symbol="draw"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="17" lineNum="5" parent="globals/Background" pc="268439639" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\PatrickRenard\\Box\\PR-D\\VisualStudioCode\\data\\Garmin-CIQ\\DF_PowerPeaks\\source\\DF_PowerPeaksBackground.mc" id="17" lineNum="5" parent="globals/Background" pc="268439639" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="19" lineNum="2" parent="globals/Rez/Drawables" pc="268439682" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="20" lineNum="6" parent="globals/Rez/Fonts" pc="268439684" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="21" lineNum="13" parent="globals/Rez/JsonData" pc="268439686" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="22" parent="globals/Rez/Layouts" pc="268437852" symbol="MainLayout"/>
+        <entry filename="Rez" id="22" lineNum="24" parent="globals/Rez/Layouts" pc="268437864" symbol="MainLayout"/>
+        <entry filename="Rez" id="22" lineNum="25" parent="globals/Rez/Layouts" pc="268437877" symbol="MainLayout"/>
+        <entry filename="Rez" id="22" lineNum="27" parent="globals/Rez/Layouts" pc="268437890" symbol="MainLayout"/>
+        <entry filename="Rez" id="22" lineNum="28" parent="globals/Rez/Layouts" pc="268437914" symbol="MainLayout"/>
+        <entry filename="Rez" id="22" lineNum="29" parent="globals/Rez/Layouts" pc="268438077" symbol="MainLayout"/>
+        <entry filename="Rez" id="22" lineNum="31" parent="globals/Rez/Layouts" pc="268438240" symbol="MainLayout"/>
+        <entry filename="Rez" id="23" lineNum="40" parent="globals/Rez/Layouts" pc="268438278" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="23" lineNum="43" parent="globals/Rez/Layouts" pc="268438290" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="23" lineNum="44" parent="globals/Rez/Layouts" pc="268438314" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="23" lineNum="45" parent="globals/Rez/Layouts" pc="268438447" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="23" lineNum="47" parent="globals/Rez/Layouts" pc="268438580" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="24" lineNum="56" parent="globals/Rez/Layouts" pc="268438618" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="24" lineNum="59" parent="globals/Rez/Layouts" pc="268438630" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="24" lineNum="60" parent="globals/Rez/Layouts" pc="268438654" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="24" lineNum="61" parent="globals/Rez/Layouts" pc="268438787" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="24" lineNum="63" parent="globals/Rez/Layouts" pc="268438920" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="25" lineNum="72" parent="globals/Rez/Layouts" pc="268438958" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="75" parent="globals/Rez/Layouts" pc="268438970" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="76" parent="globals/Rez/Layouts" pc="268438994" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="77" parent="globals/Rez/Layouts" pc="268439127" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="25" lineNum="79" parent="globals/Rez/Layouts" pc="268439260" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="26" lineNum="88" parent="globals/Rez/Layouts" pc="268439298" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="26" lineNum="91" parent="globals/Rez/Layouts" pc="268439310" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="26" lineNum="92" parent="globals/Rez/Layouts" pc="268439334" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="26" lineNum="93" parent="globals/Rez/Layouts" pc="268439467" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="26" lineNum="95" parent="globals/Rez/Layouts" pc="268439600" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="27" lineNum="15" parent="globals/Rez/Layouts" pc="268439685" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="100" parent="globals/Rez/Menus" pc="268439683" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="102" parent="globals/Rez/Strings" pc="268439687" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="1" parent="globals/Rez" pc="268439658" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="1" parent="globals/Rez" pc="268439658" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-        <entry field="true" id="35" symbol="CustomFont_Power_Unit"/>
-        <entry field="true" id="36" symbol="CPx"/>
-        <entry field="true" id="49" symbol="f1_mValue"/>
+        <entry field="true" id="33" symbol="CustomFont_Power_Unit"/>
+        <entry field="true" id="34" symbol="CPx"/>
+        <entry field="true" id="47" symbol="f1_mValue"/>
         <entry id="18" method="true" symbol="MainLayout"/>
-        <entry field="true" id="30" symbol="Duration_4_Title"/>
-        <entry field="true" id="24" symbol="AppVersion"/>
-        <entry field="true" id="40" symbol="nCPx_Duration_Array"/>
+        <entry field="true" id="28" symbol="Duration_4_Title"/>
+        <entry field="true" id="38" symbol="nCPx_Duration_Array"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="41" symbol="CPx_sum_of_samples_Array"/>
-        <entry field="true" id="31" symbol="AppName"/>
+        <entry field="true" id="39" symbol="CPx_sum_of_samples_Array"/>
+        <entry field="true" id="29" symbol="AppName"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-        <entry field="true" id="42" symbol="CPx_next_sample_idx_Array"/>
-        <entry field="true" id="48" symbol="Label_Value"/>
+        <entry field="true" id="40" symbol="CPx_next_sample_idx_Array"/>
+        <entry field="true" id="46" symbol="Label_Value"/>
         <entry id="9" object="true" symbol="DF_PowerPeaksView"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
-        <entry field="true" id="44" symbol="CPx_history_power_Array"/>
+        <entry field="true" id="42" symbol="CPx_history_power_Array"/>
         <entry id="10" object="true" symbol="DF_PowerPeaksApp"/>
-        <entry field="true" id="43" symbol="CPx_number_of_samples_Array"/>
+        <entry field="true" id="41" symbol="CPx_number_of_samples_Array"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
         <entry field="true" id="16" symbol="Font_Title"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
-        <entry field="true" id="29" symbol="App_Version_Title"/>
-        <entry field="true" id="34" symbol="CustomFont_Title"/>
+        <entry field="true" id="32" symbol="CustomFont_Title"/>
         <entry id="12" module="true" symbol="Menus"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
@@ -201,12 +196,12 @@
         <entry id="8389131" method="true" symbol="setColor"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="47" symbol="Label_Idx"/>
-        <entry field="true" id="27" symbol="Duration_1_Title"/>
+        <entry field="true" id="45" symbol="Label_Idx"/>
+        <entry field="true" id="26" symbol="Duration_1_Title"/>
         <entry id="19" method="true" symbol="TopLeftLayout"/>
-        <entry field="true" id="39" symbol="nCPx"/>
+        <entry field="true" id="37" symbol="nCPx"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry field="true" id="45" symbol="App_Title"/>
+        <entry field="true" id="43" symbol="App_Title"/>
         <entry field="true" id="17" symbol="Font_Power_Unit"/>
         <entry id="21" method="true" symbol="BottomLeftLayout"/>
         <entry id="22" method="true" symbol="BottomRightLayout"/>
@@ -218,26 +213,26 @@
         <entry id="8388610" symbol="statics"/>
         <entry field="true" id="15" symbol="Font_Value"/>
         <entry field="true" id="14" symbol="Font_Label"/>
-        <entry field="true" id="33" symbol="CustomFont_Value"/>
+        <entry field="true" id="31" symbol="CustomFont_Value"/>
         <entry id="8389350" module="true" symbol="globals"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
-        <entry field="true" id="32" symbol="CustomFont_Label"/>
+        <entry field="true" id="30" symbol="CustomFont_Label"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry id="50" method="true" symbol="Field_Label"/>
-        <entry field="true" id="26" symbol="DF_Title_Title"/>
-        <entry field="true" id="37" symbol="CPx_Duration_Array"/>
+        <entry id="48" method="true" symbol="Field_Label"/>
+        <entry field="true" id="25" symbol="DF_Title_Title"/>
+        <entry field="true" id="35" symbol="CPx_Duration_Array"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry field="true" id="23" symbol="Duration_2_Title"/>
         <entry id="8389347" symbol="color"/>
-        <entry field="true" id="28" symbol="Duration_3_Title"/>
-        <entry field="true" id="25" symbol="Power_Unit"/>
+        <entry field="true" id="27" symbol="Duration_3_Title"/>
+        <entry field="true" id="24" symbol="Power_Unit"/>
         <entry id="11" module="true" symbol="Layouts"/>
-        <entry field="true" id="38" symbol="Duration_Number"/>
+        <entry field="true" id="36" symbol="Duration_Number"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
-        <entry field="true" id="46" symbol="App_Version"/>
+        <entry field="true" id="44" symbol="App_Version"/>
         <entry id="20" method="true" symbol="TopRightLayout"/>
     </symbolTable>
     <localVars>
@@ -268,38 +263,37 @@
         <entry endPc="268437588" name="DeviceSettings" stackId="1" startPc="268437379"/>
         <entry arg="true" endPc="268437594" name="state" stackId="1" startPc="268437590"/>
         <entry arg="true" endPc="268437599" name="state" stackId="1" startPc="268437595"/>
-        <entry endPc="268437822" name="V" stackId="7" startPc="268437604"/>
-        <entry endPc="268437822" name="T" stackId="6" startPc="268437604"/>
-        <entry endPc="268437822" name="D4" stackId="5" startPc="268437604"/>
-        <entry endPc="268437822" name="D3" stackId="4" startPc="268437604"/>
-        <entry endPc="268437822" name="D2" stackId="3" startPc="268437604"/>
-        <entry endPc="268437822" name="D1" stackId="2" startPc="268437604"/>
-        <entry endPc="268437822" name="AppVersion" stackId="1" startPc="268437604"/>
-        <entry endPc="268437868" name="dictionary" stackId="1" startPc="268437828"/>
-        <entry arg="true" endPc="268437884" name="color" stackId="1" startPc="268437870"/>
-        <entry arg="true" endPc="268437933" name="dc" stackId="1" startPc="268437885"/>
-        <entry endPc="268438570" name="rez_cmp_local_text_DF_Title" stackId="3" startPc="268437946"/>
-        <entry endPc="268438570" name="rez_cmp_local_text_Power_Unit" stackId="6" startPc="268437946"/>
-        <entry endPc="268438570" name="rez_cmp_local_text_f1_label" stackId="4" startPc="268437946"/>
-        <entry endPc="268438570" name="rez_cmp_local_custom_drawable_59403526515747096372" stackId="2" startPc="268437946"/>
-        <entry endPc="268438570" name="rez_cmp_local_text_f1_value" stackId="5" startPc="268437946"/>
-        <entry arg="true" endPc="268438571" name="dc" stackId="1" startPc="268437934"/>
-        <entry endPc="268438910" name="rez_cmp_local_text_value" stackId="4" startPc="268438584"/>
-        <entry endPc="268438910" name="rez_cmp_local_text_label" stackId="3" startPc="268438584"/>
-        <entry endPc="268438910" name="rez_cmp_local_custom_drawable_32199072210239862155" stackId="2" startPc="268438584"/>
-        <entry arg="true" endPc="268438911" name="dc" stackId="1" startPc="268438572"/>
-        <entry endPc="268439250" name="rez_cmp_local_text_value" stackId="4" startPc="268438924"/>
-        <entry endPc="268439250" name="rez_cmp_local_custom_drawable_11604625111760166400" stackId="2" startPc="268438924"/>
-        <entry endPc="268439250" name="rez_cmp_local_text_label" stackId="3" startPc="268438924"/>
-        <entry arg="true" endPc="268439251" name="dc" stackId="1" startPc="268438912"/>
-        <entry endPc="268439590" name="rez_cmp_local_text_value" stackId="4" startPc="268439264"/>
-        <entry endPc="268439590" name="rez_cmp_local_custom_drawable_12657232602733478181" stackId="2" startPc="268439264"/>
-        <entry endPc="268439590" name="rez_cmp_local_text_label" stackId="3" startPc="268439264"/>
-        <entry arg="true" endPc="268439591" name="dc" stackId="1" startPc="268439252"/>
-        <entry endPc="268439930" name="rez_cmp_local_text_value" stackId="4" startPc="268439604"/>
-        <entry endPc="268439930" name="rez_cmp_local_custom_drawable_45691542613186560131" stackId="2" startPc="268439604"/>
-        <entry endPc="268439930" name="rez_cmp_local_text_label" stackId="3" startPc="268439604"/>
-        <entry arg="true" endPc="268439931" name="dc" stackId="1" startPc="268439592"/>
+        <entry endPc="268437740" name="V" stackId="6" startPc="268437604"/>
+        <entry endPc="268437740" name="T" stackId="5" startPc="268437604"/>
+        <entry endPc="268437740" name="D4" stackId="4" startPc="268437604"/>
+        <entry endPc="268437740" name="D3" stackId="3" startPc="268437604"/>
+        <entry endPc="268437740" name="D2" stackId="2" startPc="268437604"/>
+        <entry endPc="268437740" name="D1" stackId="1" startPc="268437604"/>
+        <entry endPc="268437786" name="dictionary" stackId="1" startPc="268437746"/>
+        <entry arg="true" endPc="268437802" name="color" stackId="1" startPc="268437788"/>
+        <entry arg="true" endPc="268437851" name="dc" stackId="1" startPc="268437803"/>
+        <entry endPc="268438276" name="rez_cmp_local_text_value" stackId="6" startPc="268437864"/>
+        <entry endPc="268438276" name="rez_cmp_local_custom_drawable_78514977310013799636" stackId="4" startPc="268437864"/>
+        <entry endPc="268438276" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268437864"/>
+        <entry endPc="268438276" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268437864"/>
+        <entry endPc="268438276" name="rez_cmp_local_text_label" stackId="5" startPc="268437864"/>
+        <entry arg="true" endPc="268438277" name="dc" stackId="1" startPc="268437852"/>
+        <entry endPc="268438616" name="rez_cmp_local_text_value" stackId="4" startPc="268438290"/>
+        <entry endPc="268438616" name="rez_cmp_local_text_label" stackId="3" startPc="268438290"/>
+        <entry endPc="268438616" name="rez_cmp_local_custom_drawable_18681251021694096712" stackId="2" startPc="268438290"/>
+        <entry arg="true" endPc="268438617" name="dc" stackId="1" startPc="268438278"/>
+        <entry endPc="268438956" name="rez_cmp_local_text_value" stackId="4" startPc="268438630"/>
+        <entry endPc="268438956" name="rez_cmp_local_text_label" stackId="3" startPc="268438630"/>
+        <entry endPc="268438956" name="rez_cmp_local_custom_drawable_13980792141682948716" stackId="2" startPc="268438630"/>
+        <entry arg="true" endPc="268438957" name="dc" stackId="1" startPc="268438618"/>
+        <entry endPc="268439296" name="rez_cmp_local_text_value" stackId="4" startPc="268438970"/>
+        <entry endPc="268439296" name="rez_cmp_local_text_label" stackId="3" startPc="268438970"/>
+        <entry endPc="268439296" name="rez_cmp_local_custom_drawable_14962399821271672986" stackId="2" startPc="268438970"/>
+        <entry arg="true" endPc="268439297" name="dc" stackId="1" startPc="268438958"/>
+        <entry endPc="268439636" name="rez_cmp_local_text_value" stackId="4" startPc="268439310"/>
+        <entry endPc="268439636" name="rez_cmp_local_text_label" stackId="3" startPc="268439310"/>
+        <entry endPc="268439636" name="rez_cmp_local_custom_drawable_31039439320476106008" stackId="2" startPc="268439310"/>
+        <entry arg="true" endPc="268439637" name="dc" stackId="1" startPc="268439298"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -308,12 +302,10 @@
         <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Font_Title"/>
         <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Font_Power_Unit"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Duration_2_Title"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppVersion"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Power_Unit"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DF_Title_Title"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Duration_1_Title"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Duration_3_Title"/>
-        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="App_Version_Title"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="Duration_4_Title"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
     </annotations>
@@ -327,8 +319,8 @@
         <dataEntry label="globals/Rez/Layouts" offset="441" parentId="Rez" symbolId="Layouts" type="module"/>
         <dataEntry label="globals/Rez/JsonData" offset="512" parentId="Rez" symbolId="JsonData" type="module"/>
         <dataEntry label="globals/Rez/Strings" offset="543" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/DF_PowerPeaksView" offset="646" parentId="globals" symbolId="DF_PowerPeaksView" type="class"/>
-        <dataEntry label="globals/DF_PowerPeaksApp" offset="869" parentId="globals" symbolId="DF_PowerPeaksApp" type="class"/>
+        <dataEntry label="globals/DF_PowerPeaksView" offset="630" parentId="globals" symbolId="DF_PowerPeaksView" type="class"/>
+        <dataEntry label="globals/DF_PowerPeaksApp" offset="853" parentId="globals" symbolId="DF_PowerPeaksApp" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435907" name="initialize" parent="DF_PowerPeaksView" startPc="268435456">
@@ -355,7 +347,7 @@
             <param id="dc"/>
             <documentation><![CDATA[<div class="description"> Display the value you computed here. This will be called<br/> once a second when the data field is visible.<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440126" name="&lt;init&gt;" parent="DF_PowerPeaksView" startPc="268439982">
+        <functionEntry accessMode="protected" endPc="268439832" name="&lt;init&gt;" parent="DF_PowerPeaksView" startPc="268439688">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" endPc="268437589" name="initialize" parent="DF_PowerPeaksApp" startPc="268437375">
@@ -369,65 +361,65 @@
             <param id="state"/>
             <documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437823" name="getInitialView" parent="DF_PowerPeaksApp" startPc="268437600">
+        <functionEntry accessMode="public" endPc="268437741" name="getInitialView" parent="DF_PowerPeaksApp" startPc="268437600">
             <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440145" name="&lt;init&gt;" parent="DF_PowerPeaksApp" startPc="268440127">
+        <functionEntry accessMode="protected" endPc="268439851" name="&lt;init&gt;" parent="DF_PowerPeaksApp" startPc="268439833">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437869" name="initialize" parent="Background" startPc="268437824">
+        <functionEntry accessMode="public" endPc="268437787" name="initialize" parent="Background" startPc="268437742">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437884" name="setColor" parent="Background" startPc="268437870">
+        <functionEntry accessMode="public" endPc="268437802" name="setColor" parent="Background" startPc="268437788">
             <param id="color"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437933" name="draw" parent="Background" startPc="268437885">
+        <functionEntry accessMode="public" endPc="268437851" name="draw" parent="Background" startPc="268437803">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439951" name="&lt;init&gt;" parent="Background" startPc="268439933">
+        <functionEntry accessMode="protected" endPc="268439657" name="&lt;init&gt;" parent="Background" startPc="268439639">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439976" name="&lt;init&gt;" parent="Drawables" startPc="268439976">
+        <functionEntry accessMode="protected" endPc="268439682" name="&lt;init&gt;" parent="Drawables" startPc="268439682">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439978" name="&lt;init&gt;" parent="Fonts" startPc="268439978">
+        <functionEntry accessMode="protected" endPc="268439684" name="&lt;init&gt;" parent="Fonts" startPc="268439684">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439980" name="&lt;init&gt;" parent="JsonData" startPc="268439980">
+        <functionEntry accessMode="protected" endPc="268439686" name="&lt;init&gt;" parent="JsonData" startPc="268439686">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438571" name="MainLayout" parent="Layouts" startPc="268437934">
+        <functionEntry accessMode="public" endPc="268438277" name="MainLayout" parent="Layouts" startPc="268437852">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438911" name="TopLeftLayout" parent="Layouts" startPc="268438572">
+        <functionEntry accessMode="public" endPc="268438617" name="TopLeftLayout" parent="Layouts" startPc="268438278">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439251" name="TopRightLayout" parent="Layouts" startPc="268438912">
+        <functionEntry accessMode="public" endPc="268438957" name="TopRightLayout" parent="Layouts" startPc="268438618">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439591" name="BottomLeftLayout" parent="Layouts" startPc="268439252">
+        <functionEntry accessMode="public" endPc="268439297" name="BottomLeftLayout" parent="Layouts" startPc="268438958">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439931" name="BottomRightLayout" parent="Layouts" startPc="268439592">
+        <functionEntry accessMode="public" endPc="268439637" name="BottomRightLayout" parent="Layouts" startPc="268439298">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439979" name="&lt;init&gt;" parent="Layouts" startPc="268439979">
+        <functionEntry accessMode="protected" endPc="268439685" name="&lt;init&gt;" parent="Layouts" startPc="268439685">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439977" name="&lt;init&gt;" parent="Menus" startPc="268439977">
+        <functionEntry accessMode="protected" endPc="268439683" name="&lt;init&gt;" parent="Menus" startPc="268439683">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439981" name="&lt;init&gt;" parent="Strings" startPc="268439981">
+        <functionEntry accessMode="protected" endPc="268439687" name="&lt;init&gt;" parent="Strings" startPc="268439687">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268439975" name="&lt;init&gt;" parent="Rez" startPc="268439952">
+        <functionEntry accessMode="protected" endPc="268439681" name="&lt;init&gt;" parent="Rez" startPc="268439658">
             <documentation/>
         </functionEntry>
     </functions>

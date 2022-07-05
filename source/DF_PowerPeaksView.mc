@@ -4,7 +4,7 @@ using Toybox.Graphics as Gfx;
 class DF_PowerPeaksView extends Ui.DataField
 {
 
-	var Device_Type;
+	//var Device_Type;
 	
 	var CustomFont_Label = null;
 	var CustomFont_Value = null;
@@ -34,7 +34,7 @@ class DF_PowerPeaksView extends Ui.DataField
     {
         DataField.initialize();
 
-	    Device_Type = Ui.loadResource(Rez.Strings.Device);
+	    //Device_Type = Ui.loadResource(Rez.Strings.Device);
 
 		//System.println("Device Type = " + Device_Type);
 
