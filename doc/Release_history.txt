@@ -4,6 +4,9 @@ Power peaks durations are specified in seconds.
 
 Release History:
 
+- V1.08-1 - 2023-04-25
+* Add Edge 540 & 840 support
+* Implement CIQ SDK 4.24
 - V1.07-1 - 2022-07-05
 * Add Edge 1040 support
 - V1.06 - 2019-06-19

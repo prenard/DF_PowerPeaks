@@ -1,0 +1,166 @@
+[ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 9; ]
+using Toybox.Application as :App;
+[ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 10; ]
+using Toybox.WatchUi as :Ui;
+[ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 12; ]
+class DF_PowerPeaksApp extends App.AppBase{
+    [ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 12; ]
+    <init> {
+    }
+    [ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 12; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 17; ]
+    function initialize() as Void {
+C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_18_4_start:
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 19 8 ]
+        %tmp.2 = getv ? :AppBase;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 21 2 ]
+        [ "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_18_4_start" "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_18_4_stop" ]
+        %DeviceSettings.1 = local;
+        %tmp.5 = getv ? :System;
+        %tmp.6 = getv function %tmp.5 :getDeviceSettings;
+        %tmp.7 = invoke %tmp.5 %tmp.6();
+        lputv %DeviceSettings.1 %tmp.7;
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 23 5 ]
+        %tmp.9 = getv ? :System;
+        %tmp.10 = getv function %tmp.9 :println;
+        %tmp.11 = "Application Start - Total Memory = ";
+        %tmp.13 = getv ? :System;
+        %tmp.14 = getv function %tmp.13 :getSystemStats;
+        %tmp.15 = invoke %tmp.13 %tmp.14();
+        %tmp.16 = getv %tmp.15 :totalMemory;
+        %tmp.17 = add %tmp.11 %tmp.16;
+        %tmp.18 = " / Used Memory = ";
+        %tmp.19 = add %tmp.17 %tmp.18;
+        %tmp.21 = getv ? :System;
+        %tmp.22 = getv function %tmp.21 :getSystemStats;
+        %tmp.23 = invoke %tmp.21 %tmp.22();
+        %tmp.24 = getv %tmp.23 :usedMemory;
+        %tmp.25 = add %tmp.19 %tmp.24;
+        invoke %tmp.9 %tmp.10(%tmp.25);
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 28 8 ]
+        %tmp.27 = getv ? :System;
+        %tmp.28 = getv function %tmp.27 :println;
+        %tmp.29 = "Device - Screen Height = ";
+        %tmp.30 = lgetv %DeviceSettings.1;
+        %tmp.31 = getv %tmp.30 :screenHeight;
+        %tmp.32 = add %tmp.29 %tmp.31;
+        invoke %tmp.27 %tmp.28(%tmp.32);
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 29 8 ]
+        %tmp.34 = getv ? :System;
+        %tmp.35 = getv function %tmp.34 :println;
+        %tmp.36 = "Device - Screen Width = ";
+        %tmp.37 = lgetv %DeviceSettings.1;
+        %tmp.38 = getv %tmp.37 :screenWidth;
+        %tmp.39 = add %tmp.36 %tmp.38;
+        invoke %tmp.34 %tmp.35(%tmp.39);
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 30 8 ]
+        %tmp.41 = getv ? :System;
+        %tmp.42 = getv function %tmp.41 :println;
+        %tmp.43 = "Device - Is Touchscreen = ";
+        %tmp.44 = lgetv %DeviceSettings.1;
+        %tmp.45 = getv %tmp.44 :isTouchScreen;
+        %tmp.46 = add %tmp.43 %tmp.45;
+        invoke %tmp.41 %tmp.42(%tmp.46);
+C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_18_4_stop:
+    }
+    //! onStart() is called on application start up
+    [ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 35; ]
+    function onStart(state) {
+    }
+    //! onStop() is called when your application is exiting
+    [ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 40; ]
+    function onStop(state) {
+    }
+    //! Return the initial view of your application here
+    [ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 45; ]
+    function getInitialView() {
+C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_start:
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 48 8 ]
+        [ "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_start" "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_stop" ]
+        %AppVersion.1 = local;
+        %tmp.1 = getm $.Toybox.WatchUi;
+        %tmp.2 = getv function %tmp.1 :loadResource;
+        %tmp.4 = getv ? :Rez;
+        %tmp.5 = getv %tmp.4 :Strings;
+        %tmp.6 = getv %tmp.5 :AppVersion;
+        %tmp.7 = invoke %tmp.1 %tmp.2(%tmp.6);
+        lputv %AppVersion.1 %tmp.7;
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 49 2 ]
+        %tmp.9 = getv ? :System;
+        %tmp.10 = getv function %tmp.9 :println;
+        %tmp.11 = "AppVersion = ";
+        %tmp.13 = lgetv %AppVersion.1;
+        %tmp.14 = add %tmp.11 %tmp.13;
+        invoke %tmp.9 %tmp.10(%tmp.14);
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 50 2 ]
+        %tmp.15 = self;
+        %tmp.16 = getv function %tmp.15 :setProperty;
+        %tmp.17 = "App_Version";
+        %tmp.19 = lgetv %AppVersion.1;
+        invoke %tmp.15 %tmp.16(%tmp.17, %tmp.19);
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 52 2 ]
+        [ "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_start" "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_stop" ]
+        %D1.2 = local;
+        [ "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_start" "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_stop" ]
+        %D2.3 = local;
+        [ "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_start" "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_stop" ]
+        %D3.4 = local;
+        [ "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_start" "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_stop" ]
+        %D4.5 = local;
+        [ "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_start" "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_stop" ]
+        %T.6 = local;
+        [ "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_start" "C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_stop" ]
+        %V.7 = local;
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 54 2 ]
+        %tmp.20 = self;
+        %tmp.21 = getv function %tmp.20 :getProperty;
+        %tmp.22 = "Duration_1";
+        %tmp.23 = invoke %tmp.20 %tmp.21(%tmp.22);
+        lputv %D1.2 %tmp.23;
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 55 2 ]
+        %tmp.24 = self;
+        %tmp.25 = getv function %tmp.24 :getProperty;
+        %tmp.26 = "Duration_2";
+        %tmp.27 = invoke %tmp.24 %tmp.25(%tmp.26);
+        lputv %D2.3 %tmp.27;
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 56 2 ]
+        %tmp.28 = self;
+        %tmp.29 = getv function %tmp.28 :getProperty;
+        %tmp.30 = "Duration_3";
+        %tmp.31 = invoke %tmp.28 %tmp.29(%tmp.30);
+        lputv %D3.4 %tmp.31;
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 57 2 ]
+        %tmp.32 = self;
+        %tmp.33 = getv function %tmp.32 :getProperty;
+        %tmp.34 = "Duration_4";
+        %tmp.35 = invoke %tmp.32 %tmp.33(%tmp.34);
+        lputv %D4.5 %tmp.35;
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 58 2 ]
+        %tmp.36 = self;
+        %tmp.37 = getv function %tmp.36 :getProperty;
+        %tmp.38 = "DF_Title";
+        %tmp.39 = invoke %tmp.36 %tmp.37(%tmp.38);
+        lputv %T.6 %tmp.39;
+[ "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc" 62 8 ]
+        %tmp.40 = newa 1;
+        %tmp.44 = getv ? :DF_PowerPeaksView;
+        %tmp.46 = lgetv %D1.2;
+        %tmp.48 = lgetv %D2.3;
+        %tmp.50 = lgetv %D3.4;
+        %tmp.52 = lgetv %D4.5;
+        %tmp.54 = lgetv %T.6;
+        %tmp.41 = newc %tmp.44 (%tmp.46, %tmp.48, %tmp.50, %tmp.52, %tmp.54);
+        %tmp.55 = dup %tmp.40;
+        %tmp.56 = aputv %tmp.55 0 %tmp.41;
+        ret %tmp.56;
+C_Users_admin_OneDrive___kyndryl_Patrick_Renard_Private_Box_VisualStudioCode_data_Garmin_CIQ_DF_PowerPeaks_source_DF_PowerPeaksApp_mc_46_4_stop:
+    }
+}
+[ @file = "C:\Users\admin\OneDrive - kyndryl\Patrick_Renard_Private_Box\VisualStudioCode\data\Garmin-CIQ\DF_PowerPeaks\source\DF_PowerPeaksApp.mc"; @line = 9; ]
+<init> {
+}

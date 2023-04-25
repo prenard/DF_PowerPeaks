@@ -1,0 +1,93 @@
+import Toybox.Lang;
+using Toybox.WatchUi;
+using Toybox.WatchUi as Ui;
+using Toybox.Graphics;
+using Toybox.Graphics as Gfx;
+
+module Rez {
+    module Drawables {
+        (:initialized) var LauncherIcon as Symbol;
+    } // Drawables
+
+    module Fonts {
+        (:initialized) var Font_Label as Symbol;
+        (:initialized) var Font_Value as Symbol;
+        (:initialized) var Font_Title as Symbol;
+        (:initialized) var Font_Power_Unit as Symbol;
+    } // Fonts
+
+    module JsonData {
+    } // JsonData
+
+    module Layouts {
+        function MainLayout(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+            var rez_cmp_local_custom_drawable_80369333533888140591 = new Background();
+
+            var rez_cmp_local_text_DF_Title = new WatchUi.Text({:identifier=>"DF_Title", :color=>Gfx.COLOR_BLACK, :locX=>(dc.getWidth() * 0.5), :locY=>0, :justification=>Gfx.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_MEDIUM});
+
+            var rez_cmp_local_text_f1_label = new WatchUi.Text({:identifier=>"f1_label", :color=>Gfx.COLOR_BLACK, :locX=>1, :locY=>40, :justification=>Gfx.TEXT_JUSTIFY_LEFT, :font=>Graphics.FONT_MEDIUM});
+
+            var rez_cmp_local_text_f1_value = new WatchUi.Text({:identifier=>"f1_value", :color=>Gfx.COLOR_BLACK, :locX=>100, :locY=>10, :justification=>Gfx.TEXT_JUSTIFY_RIGHT, :font=>Graphics.FONT_MEDIUM});
+
+            var rez_cmp_local_text_Power_Unit = new WatchUi.Text({:identifier=>"Power_Unit", :color=>Gfx.COLOR_BLACK, :locX=>115, :locY=>40, :justification=>Gfx.TEXT_JUSTIFY_RIGHT, :font=>Graphics.FONT_MEDIUM});
+
+            return [rez_cmp_local_custom_drawable_80369333533888140591, rez_cmp_local_text_DF_Title, rez_cmp_local_text_f1_label, rez_cmp_local_text_f1_value, rez_cmp_local_text_Power_Unit] as Array<WatchUi.Drawable>;
+        }
+
+        function TopLeftLayout(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+            var rez_cmp_local_custom_drawable_16157985121225886704 = new Background();
+
+            var rez_cmp_local_text_label = new WatchUi.Text({:identifier=>"label", :color=>Gfx.COLOR_LT_GRAY, :locX=>95, :locY=>75, :justification=>Gfx.TEXT_JUSTIFY_RIGHT, :font=>Gfx.FONT_TINY});
+
+            var rez_cmp_local_text_value = new WatchUi.Text({:identifier=>"value", :color=>Gfx.COLOR_WHITE, :locX=>95, :locY=>42, :justification=>Gfx.TEXT_JUSTIFY_RIGHT, :font=>Gfx.FONT_LARGE});
+
+            return [rez_cmp_local_custom_drawable_16157985121225886704, rez_cmp_local_text_label, rez_cmp_local_text_value] as Array<WatchUi.Drawable>;
+        }
+
+        function TopRightLayout(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+            var rez_cmp_local_custom_drawable_15114214511384987325 = new Background();
+
+            var rez_cmp_local_text_label = new WatchUi.Text({:identifier=>"label", :color=>Gfx.COLOR_LT_GRAY, :locX=>14, :locY=>75, :justification=>Gfx.TEXT_JUSTIFY_LEFT, :font=>Gfx.FONT_TINY});
+
+            var rez_cmp_local_text_value = new WatchUi.Text({:identifier=>"value", :color=>Gfx.COLOR_WHITE, :locX=>14, :locY=>42, :justification=>Gfx.TEXT_JUSTIFY_LEFT, :font=>Gfx.FONT_LARGE});
+
+            return [rez_cmp_local_custom_drawable_15114214511384987325, rez_cmp_local_text_label, rez_cmp_local_text_value] as Array<WatchUi.Drawable>;
+        }
+
+        function BottomLeftLayout(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+            var rez_cmp_local_custom_drawable_74132336138850661916 = new Background();
+
+            var rez_cmp_local_text_label = new WatchUi.Text({:identifier=>"label", :color=>Gfx.COLOR_LT_GRAY, :locX=>95, :locY=>10, :justification=>Gfx.TEXT_JUSTIFY_RIGHT, :font=>Gfx.FONT_TINY});
+
+            var rez_cmp_local_text_value = new WatchUi.Text({:identifier=>"value", :color=>Gfx.COLOR_WHITE, :locX=>95, :locY=>27, :justification=>Gfx.TEXT_JUSTIFY_RIGHT, :font=>Gfx.FONT_LARGE});
+
+            return [rez_cmp_local_custom_drawable_74132336138850661916, rez_cmp_local_text_label, rez_cmp_local_text_value] as Array<WatchUi.Drawable>;
+        }
+
+        function BottomRightLayout(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
+            var rez_cmp_local_custom_drawable_11422517651193402530 = new Background();
+
+            var rez_cmp_local_text_label = new WatchUi.Text({:identifier=>"label", :color=>Gfx.COLOR_LT_GRAY, :locX=>14, :locY=>10, :justification=>Gfx.TEXT_JUSTIFY_LEFT, :font=>Gfx.FONT_TINY});
+
+            var rez_cmp_local_text_value = new WatchUi.Text({:identifier=>"value", :color=>Gfx.COLOR_WHITE, :locX=>14, :locY=>27, :justification=>Gfx.TEXT_JUSTIFY_LEFT, :font=>Gfx.FONT_LARGE});
+
+            return [rez_cmp_local_custom_drawable_11422517651193402530, rez_cmp_local_text_label, rez_cmp_local_text_value] as Array<WatchUi.Drawable>;
+        }
+    } // Layouts
+
+    module Menus {
+    } // Menus
+
+    module Strings {
+        (:initialized) var Duration_2_Title as Symbol;
+        (:initialized) var AppVersion as Symbol;
+        (:initialized) var Power_Unit as Symbol;
+        (:initialized) var DF_Title_Title as Symbol;
+        (:initialized) var Duration_1_Title as Symbol;
+        (:initialized) var Device as Symbol;
+        (:initialized) var Duration_3_Title as Symbol;
+        (:initialized) var App_Version_Title as Symbol;
+        (:initialized) var Duration_4_Title as Symbol;
+        (:initialized) var AppName as Symbol;
+    } // Strings
+} // Rez
